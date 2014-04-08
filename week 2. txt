@@ -1,0 +1,44 @@
+1. What is your partner's name? (Or what are your partners' names?)
+john g, chuck,and saint
+
+ When and where is lab this afternoon?
+ lib 2619
+ 
+Every week, you will write a weekx.txt file in your github repo in the prof directory, where x is 1, 2, 3, … or 9.
+What should you put in this file?
+Where / how will you receive feedback about this file, and your work from the previous week?
+Paul would leave a comment under your post in github
+
+Review your writing assignment for Seminar on Thursday:
+i didnt think to much of it. for the most part it was boring he failed to create a relathionship with the students till near the end. all that i got from him was that with some hard work you can get to where you want to be even if you dont know where that is.
+
+ Define and give examples (in code, preferably) for the particular language you are learning.
+Don't worry if you can't do them all. Do as many as you can.
+
+variable-In elementary mathematics, a variable is an alphabetic character representing a number which is either arbitrary or not fully specified or unknown
+assignment-a task or piece of work assigned to someone as part of a job or course of study.
+statement-something that you say or write in a formal or official way
+comment-a remark, observation, or criticism
+expression-an expression is a finite combination of symbols that is well-formed according to rules that depend on the context
+equality of two variables
+conditionals (if statements)
+function
+parameter
+character
+string
+boolean
+integer
+
+What is a compiler? What is an interpreter? Which one does your programming language use? (It may use both).
+
+What is a class? What is an object? What is object-oriented programming?
+A class is a blueprint or template or set of instructions to build a specific type of object.
+an object is a self-contained component that contains properties and methods needed to make a certain type of data useful.
+Object-oriented programming (OOP) is a style of programming that focuses on using objects to design and build applications
+
+In your programming language, how do you use functions and classes written by other people, perhaps that you found on GitHub or the internet?
+That is, how do you "import" additional functionality?
+
+What is the difference between the core programming language and a library?
+(hint: think about using only keywords, versus having to "import" functions / modules / classes into your program)
+
